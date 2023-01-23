@@ -13,7 +13,7 @@
 
 
 <!-- git stats -->
-[![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinterDP&hide=issues,stars&count_private=true&show_icons=tr&theme=great-gatsby)](https://github.com/WinterDP/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&hide=Go,Astro,Assembly,shell,rust,glsl&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+[![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinterDP&hide=issues,stars&count_private=true&show_icons=tr&theme=great-gatsby)](https://github.com/WinterDP/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WinterDP&langs_count=8&hide=HLSL,Shaderlab,Go,Astro,Assembly,glsl&layout=compact&theme=great-gatsby)](https://github.com/WinterDP/github-readme-stats)
 
 ##
 <!-- tecnologies -->
