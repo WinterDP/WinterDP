@@ -34,9 +34,10 @@
  
  <img align = center alt="WinterDP - AWS" height = 80px width = 60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
           
-
-                
 </div>   
+
+
+##
 
 ![Snake animation](https://github.com/WinterDP/WinterDP/blob/output/github-contribution-grid-snake.svg)
             
