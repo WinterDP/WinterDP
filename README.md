@@ -13,7 +13,9 @@
 
 
 <!-- git stats -->
-[![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinterDP&hide=issues,stars&count_private=true&show_icons=tr&theme=great-gatsby)](https://github.com/WinterDP/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WinterDP&langs_count=8&hide=HLSL,Shaderlab,Go,Astro,Assembly,glsl&layout=compact&theme=great-gatsby)](https://github.com/WinterDP/github-readme-stats)
+[![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinterDP&hide=issues,stars&count_private=true&show_icons=tr&theme=great-gatsby#gh-dark-mode-only)](https://github.com/WinterDP/github-readme-stats#gh-dark-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WinterDP&langs_count=8&exclude_repo=ProjectElfAttorney&hide=HLSL,Shaderlab,Go,Astro,Assembly,glsl&layout=compact&theme=great-gatsby#gh-dark-mode-only)](https://github.com/WinterDP/github-readme-stats#gh-dark-mode-only)
+
+[![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinterDP&hide=issues,stars&count_private=true&show_icons=tr&theme=moltack#gh-light-mode-only)](https://github.com/WinterDP/github-readme-stats#gh-light-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WinterDP&langs_count=8&exclude_repo=ProjectElfAttorney&hide=HLSL,Shaderlab,Go,Astro,Assembly,glsl&layout=compact&theme=moltack#gh-light-mode-only)](https://github.com/WinterDP/github-readme-stats#gh-light-mode-only)
 
 ##
 <!-- tecnologies -->
