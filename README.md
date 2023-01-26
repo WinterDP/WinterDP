@@ -1,6 +1,8 @@
 
 - 🔭 I’m currently working on Unity GameDev
+
 - 🌱 I’m currently learning Python, html, js, css ...
+
 - 📫 How to reach me:
 ##
 <div>
