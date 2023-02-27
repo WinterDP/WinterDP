@@ -41,7 +41,7 @@
 
 ##
 
-![Snake animation](https://github.com/WinterDP/WinterDP/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/WinterDP/WinterDP/blob/output/github-contribution-grid-snake-dark.svg)
             
 
 
